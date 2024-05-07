@@ -1,1 +1,2 @@
-print("naruto")
+print("naruto chek it")
+print("naruto sasuke sakura")
