@@ -10,6 +10,6 @@ n=int(input("enter the size: "))
 for s in range(n):
     n1=int(input("enter number: "))
     a.append(n1)
-
+print("given array is",a)
 bubble(a)
 print(a)
